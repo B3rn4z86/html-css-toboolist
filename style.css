@@ -23,7 +23,7 @@ header {
 .titolo {
   display: inline;
   vertical-align: middle;
-  font-weight: bold;
+  font-weight: 800;
   font-size: 40px;
   font-family: arial;
 }
